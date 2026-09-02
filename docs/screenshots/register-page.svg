@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#f5f7fa"/>
+  <rect x="70" y="45" width="1060" height="630" rx="16" fill="white" stroke="#d8dee9"/>
+  <rect x="70" y="45" width="1060" height="72" rx="16" fill="#172b4d"/>
+  <text x="105" y="91" font-family="Arial, sans-serif" font-size="25" fill="white" font-weight="700">Registration — Automation Practice</text>
+  <text x="150" y="175" font-family="Arial, sans-serif" font-size="31" fill="#172b4d" font-weight="700">Register</text>
+  <text x="150" y="208" font-family="Arial, sans-serif" font-size="16" fill="#667085">Create a test user for the E2E automation demo</text>
+  <text x="150" y="260" font-family="Arial, sans-serif" font-size="15" fill="#344054">Username</text>
+  <rect x="150" y="275" width="900" height="48" rx="7" fill="white" stroke="#98a2b3"/>
+  <text x="168" y="306" font-family="Arial, sans-serif" font-size="15" fill="#98a2b3">automation_user_001</text>
+  <text x="150" y="355" font-family="Arial, sans-serif" font-size="15" fill="#344054">Password</text>
+  <rect x="150" y="370" width="900" height="48" rx="7" fill="white" stroke="#98a2b3"/>
+  <text x="168" y="401" font-family="Arial, sans-serif" font-size="18" fill="#344054">••••••••••••</text>
+  <text x="150" y="450" font-family="Arial, sans-serif" font-size="15" fill="#344054">Confirm Password</text>
+  <rect x="150" y="465" width="900" height="48" rx="7" fill="white" stroke="#98a2b3"/>
+  <text x="168" y="496" font-family="Arial, sans-serif" font-size="18" fill="#344054">••••••••••••</text>
+  <rect x="150" y="550" width="150" height="50" rx="7" fill="#2563eb"/>
+  <text x="191" y="582" font-family="Arial, sans-serif" font-size="16" fill="white" font-weight="700">Register</text>
+  <text x="770" y="590" font-family="Arial, sans-serif" font-size="14" fill="#667085">Visual preview for the portfolio README</text>
+</svg>
